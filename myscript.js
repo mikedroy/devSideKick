@@ -19,7 +19,7 @@ chrome.runtime.onMessage.addListener(
 	}
 );
 
-//Currently Unused but you will get the idea.
+//Currently Unused but you will get the idea. Test Change.
 function hideCurrentElementsInList(theList)
 {
 	theList.forEach(function (element){    	
